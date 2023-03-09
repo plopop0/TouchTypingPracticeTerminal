@@ -30,7 +30,7 @@ while True:
  Type 'asdf' -- familiarizing yourself with asdf keys LH\n\
  Type 'jkl;' -- familiarizing yourself with jkl; keys RH\
           ")
- 
+
 
     choose = input()
     if choose == 'asdf':asdf()
